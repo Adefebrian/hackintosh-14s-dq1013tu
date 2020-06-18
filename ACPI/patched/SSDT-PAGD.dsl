@@ -8,7 +8,7 @@
 
 DefinitionBlock ("", "SSDT", 2, "ACDT", "PAGD", 0x00000000)
 {
-    External (_SB, DeviceObj)    // (from opcode)
+    External (_SB_, DeviceObj)    // (from opcode)
     
     Scope (_SB)
     {

@@ -160,16 +160,6 @@
 					<key>Replace</key>
 					<data>U0FUQQ==</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Fix 300-series RTC Bug</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>oAqTU1RBUwE=</data>
-					<key>Replace</key>
-					<data>oAqRCv8L//8=</data>
-				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
